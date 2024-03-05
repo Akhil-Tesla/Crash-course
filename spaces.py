@@ -1,4 +1,2 @@
 words=input("")
-for word in words:
-    print(word.split("..."))
-
+print(words,end="...")
